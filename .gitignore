@@ -1,0 +1,9 @@
+oldCode
+.vscode
+*.xlsx
+*.csv
+*.json
+*.html
+config.ini
+data.csv
+data.json
